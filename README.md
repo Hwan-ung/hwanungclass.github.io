@@ -2,7 +2,7 @@
 
 ## License
 
-- **Code:** MIT License © 2025 WJ Lee  
+- **Code:** MIT License © 2025 Hwanung
   <https://opensource.org/licenses/MIT>  
 - **Lecture Notes & Texts:** Creative Commons BY-NC 4.0  
   <https://creativecommons.org/licenses/by-nc/4.0/>
